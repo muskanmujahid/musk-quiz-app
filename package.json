@@ -1,0 +1,20 @@
+{
+  "name": "musk-quiz-app",
+  "version": "2.0.2",
+  "description": "This is a Great quiz app for test your I.Q about TypeScript",
+  "main": "Quiz.js",
+  "type": "module",
+  "bin": "Quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muskan Mujahid",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
